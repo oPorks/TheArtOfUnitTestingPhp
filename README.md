@@ -1,4 +1,4 @@
-TheArtOfUnitTestingPhp
+The Art of Unit Testing - PHP Scripts
 ======================
 
 PHP scripts based in Roy Osherove's book "The Art of Unit Testing"
